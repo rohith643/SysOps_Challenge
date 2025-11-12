@@ -1,0 +1,63 @@
+#Developers
+Rohith; sudo,dev,www-data
+Shiva; dev,www-data
+Sneha; dev
+Deepak; sudo,dev
+Jeevan; dev,www-data
+Nanda; de
+Jagadeesh; dev,www-data
+Dhorawar; sudo,dev
+Anika; dev,www-data
+Tariq; sudo,dev
+Maya; dev
+Ishaan; dev,www-data
+Lina; sudo,dev
+Farhan; dev
+Keiko; dev,www-data
+Tanvi; dev
+Reza; sudo,dev
+Nadia; dev,www-data
+Samar; dev
+Aiko; dev,www-data
+Neeraj; dev
+Soraya; sudo,dev
+Vivaan; dev,www-data
+Ayaka; dev
+Ravi; sudo,dev
+Fatima; dev,www-data
+Kunal; dev
+Yara; sudo,dev
+Devika; dev,www-data
+Haruki; dev
+Imran; sudo,dev
+Saanvi; dev,www-data
+Junaid; dev
+Minako; sudo,dev
+Ritika; dev,www-data
+Zain; dev
+Akira; sudo,dev
+Mehul; dev,www-data
+# Frontend Team
+Ananya; dev,frontend
+Kiran; dev,frontend,www-data
+Meghana; frontend
+
+# Backend Team
+Siddharth; dev,backend
+Harsha; backend,www-data
+Ravi; dev,backend
+
+# QA Team
+Pooja; qa
+Vikram; qa,www-data
+Neha; qa
+
+# DevOps
+Arjun; devops,sudo
+Tanvi; devops
+Rakesh; devops,www-data
+
+# Interns
+Ishaan; dev
+Aarav; qa
+Diya; frontend
