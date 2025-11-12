@@ -1,4 +1,5 @@
 **User Account Automation — create_users.sh**
+
 Automate Linux user provisioning with secure password generation, group assignment, home directory setup, and detailed logging — all from a simple input file.
 
 **Project Summary**
@@ -83,3 +84,4 @@ sudo ./create_users.sh Users.txt
 
 Rohith C
 MCA Graduate | Bash Automation Enthusiast
+
